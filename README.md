@@ -28,3 +28,6 @@ Implement an early-warning system to identify customers showing signs of payment
 
 ## Project Status
 Exploratory data analysis and Power BI dashboard completed. Further validation and analysis are in progress.
+## Dashboard Preview
+
+![Credit Risk Dashboard](dashboard_preview.png)
